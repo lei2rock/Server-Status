@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: '班班实验室 运行状态',
+  SiteName: 'lei2rock's Server Status',
 
   // 站点链接
   SiteUrl: '/',
@@ -24,11 +24,11 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '主页',
+      text: 'Homepage',
       url: 'https://dlzhang.com'
     },
     {
-      text: '博客',
+      text: 'Blog',
       url: 'https://blog.dlzhang.com'
     }
   ]

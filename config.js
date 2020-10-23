@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'lei2rock's Server Status',
+  SiteName: 'lei2rock\'s Server Status',
 
   // 站点链接
   SiteUrl: '/',
